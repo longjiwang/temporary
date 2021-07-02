@@ -1,0 +1,8 @@
+{
+   "name":'FastqtoBam',
+   "Type" :"WDL",
+   "Description" : "simple pipeline for fastq to bam bwa mem",
+   "wd1" :{
+       "Workflowfile" : "demo.wdl"
+	   }
+}	   

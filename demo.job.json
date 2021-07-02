@@ -1,0 +1,13 @@
+{
+    "Name" : "My_frist_WDL_job"
+	"Pipeline" : "demo_pipeline"
+	"Workdir":"",
+	"InputDataset":{
+	   "WorkflowInput": {
+	            "fastqobam.fastq1":"",
+				"fastqobam.fastq2":"",
+				"fastqobam.ref" :""
+		}
+	},
+	"Priority" : 7
+}
